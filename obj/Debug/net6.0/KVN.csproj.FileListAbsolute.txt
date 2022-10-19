@@ -1,0 +1,15 @@
+C:\Users\Lars Emil Paulsen\OneDrive - KVN videregående skole\Dokumenter\GitHub\KVN\bin\Debug\net6.0\KVN.exe
+C:\Users\Lars Emil Paulsen\OneDrive - KVN videregående skole\Dokumenter\GitHub\KVN\bin\Debug\net6.0\KVN.deps.json
+C:\Users\Lars Emil Paulsen\OneDrive - KVN videregående skole\Dokumenter\GitHub\KVN\bin\Debug\net6.0\KVN.runtimeconfig.json
+C:\Users\Lars Emil Paulsen\OneDrive - KVN videregående skole\Dokumenter\GitHub\KVN\bin\Debug\net6.0\KVN.dll
+C:\Users\Lars Emil Paulsen\OneDrive - KVN videregående skole\Dokumenter\GitHub\KVN\bin\Debug\net6.0\KVN.pdb
+C:\Users\Lars Emil Paulsen\OneDrive - KVN videregående skole\Dokumenter\GitHub\KVN\obj\Debug\net6.0\KVN.csproj.AssemblyReference.cache
+C:\Users\Lars Emil Paulsen\OneDrive - KVN videregående skole\Dokumenter\GitHub\KVN\obj\Debug\net6.0\KVN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lars Emil Paulsen\OneDrive - KVN videregående skole\Dokumenter\GitHub\KVN\obj\Debug\net6.0\KVN.AssemblyInfoInputs.cache
+C:\Users\Lars Emil Paulsen\OneDrive - KVN videregående skole\Dokumenter\GitHub\KVN\obj\Debug\net6.0\KVN.AssemblyInfo.cs
+C:\Users\Lars Emil Paulsen\OneDrive - KVN videregående skole\Dokumenter\GitHub\KVN\obj\Debug\net6.0\KVN.csproj.CoreCompileInputs.cache
+C:\Users\Lars Emil Paulsen\OneDrive - KVN videregående skole\Dokumenter\GitHub\KVN\obj\Debug\net6.0\KVN.dll
+C:\Users\Lars Emil Paulsen\OneDrive - KVN videregående skole\Dokumenter\GitHub\KVN\obj\Debug\net6.0\refint\KVN.dll
+C:\Users\Lars Emil Paulsen\OneDrive - KVN videregående skole\Dokumenter\GitHub\KVN\obj\Debug\net6.0\KVN.pdb
+C:\Users\Lars Emil Paulsen\OneDrive - KVN videregående skole\Dokumenter\GitHub\KVN\obj\Debug\net6.0\KVN.genruntimeconfig.cache
+C:\Users\Lars Emil Paulsen\OneDrive - KVN videregående skole\Dokumenter\GitHub\KVN\obj\Debug\net6.0\ref\KVN.dll
